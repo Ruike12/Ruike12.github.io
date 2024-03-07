@@ -70,11 +70,13 @@ article {
 
 .mart {
     background-color:#cad6fd;
+    margin: 10px 70px; 
 }
 .mart2 {
     width: 450px;
     padding: 5px;
     background-color:#FFFFFF;
+    margin: 100px 100px; 
 }
 
  footer{
